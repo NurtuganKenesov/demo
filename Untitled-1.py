@@ -5,3 +5,5 @@ print("Nurtugan Kenesov")
 a = int(input())
 print(f"Кайда окисыз {a}")
 #firstbranch комментарий
+
+#тагы комментарии
